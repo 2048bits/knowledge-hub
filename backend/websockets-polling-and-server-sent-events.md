@@ -1,4 +1,4 @@
-# Websockets, polling and server sent events
+# Websockets, polling and SSE
 
 * [Do you really need websockets](https://blog.stanko.io/do-you-really-need-websockets-343aed40aa9b) ⚠️
 * [How to secure your websocket connections](https://medium.freecodecamp.org/how-to-secure-your-websocket-connections-d0be0996c556) ⚠️

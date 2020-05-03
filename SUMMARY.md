@@ -10,21 +10,6 @@
 
 ## Languages / Technologies <a id="languages"></a>
 
-* [Python](languages/python/README.md)
-  * [Context manager](languages/python/context-manager.md)
-  * [List comprehensions](languages/python/list-comprehensions.md)
-  * [Asynchronous python](languages/python/asynchronous-python.md)
-  * [Modules and packages](languages/python/modules-and-packages.md)
-  * [Generators](languages/python/generators.md)
-  * [Decorators](languages/python/decorators.md)
-  * [OOP in Python](languages/python/oop-in-python.md)
-* [NodeJS](languages/nodejs/README.md)
-  * [Performance](languages/nodejs/performance.md)
-  * [Security and best practices](languages/nodejs/security-and-best-practices.md)
-  * [Streams](languages/nodejs/streams.md)
-  * [Buffer](languages/nodejs/buffer.md)
-  * [Event Emitter](languages/nodejs/event-emitter.md)
-* [TypeScript](languages/typescript.md)
 * [JavaScript](languages/javascript/README.md)
   * [Interview questions](languages/javascript/interview-questions.md)
   * [Regular expressions \(Regex\)](languages/javascript/regular-expressions-regex.md)
@@ -46,6 +31,21 @@
   * [Execution context](languages/javascript/execution-context.md)
   * [Classes/OOP in ES5](languages/javascript/classes-oop-in-es5.md)
   * [Testing](languages/javascript/testing.md)
+* [TypeScript](languages/typescript.md)
+* [NodeJS](languages/nodejs/README.md)
+  * [Performance](languages/nodejs/performance.md)
+  * [Security and best practices](languages/nodejs/security-and-best-practices.md)
+  * [Streams](languages/nodejs/streams.md)
+  * [Buffer](languages/nodejs/buffer.md)
+  * [Event Emitter](languages/nodejs/event-emitter.md)
+* [Python](languages/python/README.md)
+  * [Context manager](languages/python/context-manager.md)
+  * [List comprehensions](languages/python/list-comprehensions.md)
+  * [Asynchronous python](languages/python/asynchronous-python.md)
+  * [Modules and packages](languages/python/modules-and-packages.md)
+  * [Generators](languages/python/generators.md)
+  * [Decorators](languages/python/decorators.md)
+  * [OOP in Python](languages/python/oop-in-python.md)
 
 ## Frontend
 
@@ -69,7 +69,7 @@
 
 * [Rest API](backend/rest-api.md)
 * [Twelve Factor App](backend/twelve-factor-app.md)
-* [Websockets, polling and server sent events](backend/websockets-polling-and-server-sent-events.md)
+* [Websockets, polling and SSE](backend/websockets-polling-and-server-sent-events.md)
 * [Cookies](backend/cookies.md)
 * [Databases](backend/databases-1/README.md)
   * [PostgresSQL](backend/databases-1/postgresql.md)
