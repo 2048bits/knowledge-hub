@@ -16,4 +16,5 @@ Sources are divided in groups and sections and some of them have assigned labels
 
 [Knowledge Hub on Gitbook](https://knowledgehub.2048bits.com/) / [Knowledge Hub on Github](https://github.com/2048bits/knowledge-hub/tree/english)
 
-To contribute fork from our public repo and prepare a pull request :) Thanks!
+To contribute fork from our public repo and prepare a pull request :\) Thanks!
+
