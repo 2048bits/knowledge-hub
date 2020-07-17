@@ -2,6 +2,8 @@
 
 * [Home](README.md)
 * [Artificial intelligence](artificial-intelligence-1.md)
+* [UX/UI](ux-ui/README.md)
+  * [Darmowa grafika](ux-ui/darmowa-grafika.md)
 * [Business](general-1.md)
 * [General](various/README.md)
   * [Git](various/git.md)
