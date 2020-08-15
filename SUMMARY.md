@@ -14,6 +14,7 @@
 
 * [JavaScript](languages/javascript/README.md)
   * [Interview questions](languages/javascript/interview-questions.md)
+  * [Dates](languages/javascript/dates.md)
   * [Regular expressions \(Regex\)](languages/javascript/regular-expressions-regex.md)
   * [Decoratos](languages/javascript/decoratos.md)
   * [Performance](languages/javascript/performance.md)
