@@ -34,6 +34,7 @@
   * [Execution context](languages/javascript/execution-context.md)
   * [Classes/OOP in ES5](languages/javascript/classes-oop-in-es5.md)
   * [Testing](languages/javascript/testing.md)
+  * [Tools / Libraries](languages/javascript/tools-libraries.md)
 * [TypeScript](languages/typescript.md)
 * [NodeJS](languages/nodejs/README.md)
   * [Performance](languages/nodejs/performance.md)
